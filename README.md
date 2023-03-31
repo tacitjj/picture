@@ -1,2 +1,2 @@
 # picture
-图床
+Chart bed
